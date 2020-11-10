@@ -4,3 +4,4 @@ i have already done with remote respository
 now it's on dev branch*3
 there is a conflict needed to fixed
 dev conflict
+dev conflict again
