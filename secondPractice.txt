@@ -1,2 +1,3 @@
 it's my secondPractise for git
 i must learn it very hard!!
+i have already done with remote respository
